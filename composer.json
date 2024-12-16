@@ -67,6 +67,10 @@
             "php-http/discovery": true
         }
     },
+    "require": {
+        "php": "^8.0",
+        "ext-pdo": "*"
+    },
     "minimum-stability": "stable",
     "prefer-stable": true
 }
